@@ -1,5 +1,8 @@
 # Wide World Importers (WWI) Project
 
+TEST: ![Northwind_diagram](https://github.com/sarahshh/WWI-DB/assets/124673182/60a17689-adda-4114-b0e6-690331d4a746)
+
+
 In this project, we will use SQL (DDL, DML and DQL) in order to analyze the WideWorldImporter database.
 Wide World Importers (WWI) is a fictitious wholesale novelty goods importer and distributor operating from the San Francisco bay area.
 
